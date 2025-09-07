@@ -80,7 +80,7 @@ python app.py
 
 ## **Team**
 
-**Temporary Team name is Raghuvaran D Team but Original Team Nmae is BugFixers**
+**Temporary Team name is Raghuvaran D Team but Original Team Name is BugFixers**
 
 ***
 
