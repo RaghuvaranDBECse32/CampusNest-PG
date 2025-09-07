@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; background: #f7f7fc; margin: 0; }
+header { background: #2651b9; color: #fff; padding: 20px; text-align: center; }
+.pg-card, .hotel-card { background: #fff; border: 1px solid #ddd; margin: 10px; padding: 16px; border-radius: 5px; }
+input, button { padding: 8px; margin: 5px; border-radius: 5px; border: 1px solid #aaa; }
+.login-box { max-width: 350px; margin: 30px auto; background: #fff; padding: 16px; border-radius: 8px; box-shadow: 0 2px 6px #ccc; }
+.rating { color: #ffc107; font-size: 1.1em; }
